@@ -1,0 +1,101 @@
+.caja1{
+    display: flex;
+    flex-direction: column;
+    background-color: #1f2937;
+}
+
+.caja11{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 120px;
+    margin-bottom: 50px;
+    align-items: center;
+}
+
+.header{
+
+}
+
+.links{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 400px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.caja12{
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+    margin-right: 120px;
+    justify-content: space-between;
+    align-items: center;    
+    margin-bottom: 50px;
+
+}
+
+.text{
+    color: white;
+    width: 300px;
+}
+
+button {
+    color: white;
+    background-color: #3882f6;
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    
+}
+
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: grey;
+    width: 500px;
+    height: 200px;
+}
+
+.caja2{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+
+.caja21{
+    color:#1f2937;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 120px;
+    margin-bottom: 50px;
+}
+
+.caja22{
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+    margin-right: 120px;
+    justify-content: space-between;
+    align-items: center;    
+    margin-bottom: 50px;
+}
+
+.texto2{
+    color: gray;
+}
+
+.cuadro{
+    border-color: blue;
+}
